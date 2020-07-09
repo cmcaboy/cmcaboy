@@ -5,7 +5,7 @@
   <a href="https://twitter.com/cmcaboy">Twitter</a> •
   <a href="https://youtube.com/user/CoryMcaboy">Youtube</a> •
   <a href="https://github.com/cmcaboy">Github</a> •
-  <a href="https://linkedin.com/in/cmcaboy">LinkedIn</a> •
+  <a href="https://linkedin.com/in/cmcaboy">LinkedIn</a>
 </p>
 
 ---
