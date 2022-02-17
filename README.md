@@ -12,7 +12,7 @@
 
 I'm the CTO at [Rapptr Labs](https://www.rapptrlabs.com) where I manage a group of 22 engineers. While I am not managing, I spend a lot of my time working with React, React Native, and GraphQL backends. I do a lot of [youtube videos](https://www.youtube.com/user/CoryMcAboy). If you have any other questions, feel free to reach out. 
 
-- 🌱 I’m currently learning Prisma client, K8's, and Swift.
+- 🌱 I’m currently learning Prisma client, PostgresQL, K8's, and Swift.
 - 💬 Ask me about React, React Native, or GraphQL!
 - 📫 How to reach me: <a href="https://twitter.com/cmcaboy">@cmcaboy</a> 
 - ⭐️ My first open source repo: [react-fa-icon-picker](https://github.com/DATechnologies/react-fa-icon-picker)
